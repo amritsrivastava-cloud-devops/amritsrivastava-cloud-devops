@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/amritsrivastava">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amritsrivastava.png" alt="TryHackMe" />
-  </a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=495040" style='border:none;'></iframe>
 </p>
 
 
