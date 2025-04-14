@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/amritsrivastava1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amritsrivastava1" height="30" width="40" /></a>
 </p>
 
-<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=495040)">Click here</a>
+<a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=495040">Click here</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
