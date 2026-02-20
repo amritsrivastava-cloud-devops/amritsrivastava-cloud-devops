@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amrit Srivastava</h1>
+<h1 align="center">Hi # Hi, I'm Amrit 👋
+🎯 Aspiring DevOps Engineer | Linux | Git | Shell | Python  
+🚀 Currently building real-world DevOps skills through **90 Days of DevOps**</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritsrivastava-cloud-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amritsrivastava-cloud-devops" /> </p>
