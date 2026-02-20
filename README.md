@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/amritsrivastava-cloud-devops/">LinkedIn</a> •
   <a href="https://dev.to/amritsrivastava8415">Dev.to</a> •
-  <a href="https://www.hackerrank.com/amritsrivastava1">HackerRank</a> •
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="mailto:amrits.cloud@gmail.com">Email</a>
 </p>
 
 ---
