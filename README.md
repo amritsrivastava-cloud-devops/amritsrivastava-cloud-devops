@@ -1,9 +1,7 @@
-<h1 align="center">Hi # Hi, I'm Amrit 👋
-🎯 Aspiring DevOps Engineer | Linux | Git | Shell | Python  
-🚀 Currently building real-world DevOps skills through **90 Days of DevOps**</h1>
+<h1 align="center">Hi, I'm Amrit 👋 </h1>
 <h3 align="center">A passionate Cloud and DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritsrivastava-cloud-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amritsrivastava-cloud-devops" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amritsrivastava-cloud-devops& label=Profile%20views&color=0e75b6&style=flat" alt="amritsrivastava-cloud-devops" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritsrivastava-cloud-devops" alt="amritsrivastava-cloud-devops" /></a> </p>
 
